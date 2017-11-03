@@ -1,0 +1,1 @@
+export const newTask="tasks.AddNewTask"
